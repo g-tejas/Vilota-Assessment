@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# KB4 parameters
+# Given KB4 parameters
 params = [622, 622, 965, 631, -0.256, -0.0015, 0.0007, -0.0002]
 fx, fy, cx, cy, k1, k2, k3, k4 = params
 width, height = 1920, 1200
