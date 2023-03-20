@@ -17,8 +17,8 @@ Finally, I converted the distorted points back to pixel coordinates.
 To visualize the distortion effect, I generated both a quiver plot and a regular grid plot, which depicts the direction and magnitude 
 of distortion from the original points to the distorted points. The quiver plot demonstrates
 the fisheye distortion, with an inward contraction of the points in the distorted image. 
-This project has improved my understanding of camera calibration models, and the methodology used 
-can be applied to other calibration models or to correct distortions in real-world images by following the inverse transformation process.
+I found it really interesting that the methodology used can be applied to other calibration models 
+or to correct distortions in real-world images by following the inverse transformation process.
 
 ## Quiver Plot
 ![](Quiver_Plot.png)
